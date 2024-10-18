@@ -1,5 +1,5 @@
 # SOVCOM
-We have dataset, which contain infoкmation about bank's clients, with titles:  
+We have dataset, which contain information about bank's clients, with titles:  
 
 **TIME** - date and time of the transaction  
 **TRANSACTION_ID**	- unique identifier of operation  
@@ -10,8 +10,8 @@ We have dataset, which contain infoкmation about bank's clients, with titles:
 **OPERATION_TYPE** - type of operation   
 **FRAUD_FLAG** - sign of fraud< if it's 1 - fraud, 0 - classic operation.  
 
-The first, we must to calculate nominal turnover, turnover dynamics and percentage growth for understanding the popular and large banks. It's can help us to make the most progressive marketing actions for every bank.  
+The first, we must to calculate nominal turnover, turnover dynamics and percentage growth for understanding the popular and large banks. It's can help us to make more progressive marketing actions for every bank.  
 
-Secondly, we must to analyze the suspestifil operations. Contain information about fraud's cities and clients. Pass the information to the security department.
+Secondly, we must to analyze the suspestful operations. Contain information about fraud's cities and clients. Pass the information to the security department.
 
 
